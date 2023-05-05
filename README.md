@@ -5,6 +5,10 @@
 
 Este es un repositorio aplicando los metodos de express, como midleware, dependencias, packages y librerias.
 
+## Estado del repositorio
+
+:sweat_smile: Está en desarrollo y puede que hayan posibles cambios en el código para el funcionamiento de este.
+
 ### technologies
 
 
