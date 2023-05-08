@@ -13,7 +13,7 @@ const morgan = require('morgan') ;
 const app = express();
 const port = 3001;
 
-app.use(express,json());
+app.use(express.json());
 
 app.use(morgan('dev'));
 
